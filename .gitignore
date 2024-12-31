@@ -1,1 +1,5 @@
 .env
+
+# image
+*.png
+*.jpg
